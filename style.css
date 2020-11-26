@@ -12,6 +12,7 @@ body {
 
 header {
   background: #292c34;
+  padding: 10px;
 }
 
 header > h1 {
@@ -56,6 +57,7 @@ header > h1 {
 .result > p {
   text-align: center;
   font-weight: bold;
+  line-height: 90px;
 }
 
 .choices {
